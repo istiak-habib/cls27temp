@@ -1,0 +1,236 @@
+@media (max-width: 992px) {
+    .banner {
+        padding: 150px 0px;
+    }
+    .service-menu {
+        margin-top: 60px;
+    }
+    .service-item {
+        margin-left: 50px;
+    }
+    .about-learn {
+        width: 50%;
+        padding-left: 20px;
+        box-sizing: border-box;
+    }
+    .learn p {
+        font-size: 13px;
+        width: 430px;
+    }
+    .contact {
+        background: #f6f6f6;
+        padding: 60px 0px;
+        text-align: center;
+    }
+}
+
+@media (max-width: 768px) {
+    .header-left h1 {
+        margin-left: 10px;
+        padding: 10px 0px;
+        font-size: 25px;
+    }
+    .header-menu li a {
+        font-size: 12px;
+    }
+    .banner {
+        padding: 100px 0px;
+    }
+    .header-menu li {
+        margin-left: -4px;
+        padding: 15px 10px;
+        border-right: 1px solid #ddd;
+    }
+    .header-menu li:first-child{
+        border-left: 1px solid #ddd;
+    }
+    .service-item {
+        margin-left: 42px;
+    }
+    .service {
+        padding: 35px 0px;
+    }
+    .service h1 {
+        padding-bottom: 10px;
+        font-size: 30px;
+    }
+    .service p {
+        font-size: 12px;
+    }
+    .service-menu {
+        margin-top: 45px;
+    }
+    .service-item span {
+        font-size: 25px;
+        padding: 15px;
+    }
+    .service-item h2 {
+        font-size: 18px;
+    }
+    .about {
+        padding: 30px 0px;
+    }
+    .about h1 {
+        font-size: 30px;
+        padding-bottom: 10px;
+    }
+    .about p {
+        font-size: 12px;
+        padding-bottom: 35px;
+    }
+    .about-banner img {
+        width: 350px;
+        height: auto;
+        margin-top: 30px;
+    }
+    .learn p {
+        font-size: 11px;
+        width: 345px;
+        padding-bottom: 5px;
+    }
+    .learn h2 {
+        padding-bottom: 5px;
+        font-size: 15px;
+    }
+    .contact {
+        padding: 35px 0px;
+    }
+    .contact h1 {
+        padding-bottom: 10px;
+        font-size: 28px;
+    }
+    .contact p {
+        padding-bottom: 30px;
+        font-size: 12px;
+    }
+    .contact-file span {
+        font-size: 20px;
+    }
+    .contact-file h5 {
+        font-size: 13px;
+    }
+    .contact-file h6 {
+        font-size: 13px;
+    }
+    .footer span {
+        padding: 15px 10px;
+        font-size: 20px;
+    }
+    .copy-right {
+        padding: 10px 0px;
+    }
+    .copy-right p {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 576px) {
+    .header-left h1 {
+        margin-left: 5px;
+        font-size: 20px;
+    }
+    .header-menu {
+        margin-right: 5px;
+    }
+    .header-menu li {
+        padding: 12px 10px;
+    }
+    .banner {
+        padding: 50px 0px;
+    }
+    .banner h1 {
+        font-size: 20px;
+    }
+    .banner h6 {
+        font-size: 4px;
+    }
+    .banner button {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    .service {
+        padding: 20px 0px;
+    }
+    .service h1 {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+    .service p {
+        font-size: 3px;
+    }
+    .service-menu {
+        margin-top: 5px;
+    }
+    .service-item {
+        margin-left: 30px;
+    }
+    .service-item span {
+        font-size: 18px;
+        padding: 15px;
+    }
+    .service-item h2 {
+        font-size: 10px;
+        margin-bottom: 3px;
+    }
+    .service-item p {
+        font-size: 5px;
+    }
+    .about {
+        padding: 20px 0px;
+    }
+    .about h1 {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+    .about p {
+        font-size: 3px;
+        padding-bottom: 25px;
+    }
+    .about-banner img {
+        width: 260px;
+    }
+    .about-learn {
+        padding-left: 10px;
+        box-sizing: border-box;
+    }
+    .learn h2 {
+        padding-bottom: 3px;
+        font-size: 7px;
+    }
+    .learn p {
+        padding-bottom: 5px;
+        line-height: 15px;
+        width: 255px;
+        font-size: 7px;
+    }
+    .contact {
+        padding: 20px 0px;
+    }
+    .contact h1 {
+        padding-bottom: 5px;
+        font-size: 12px;
+    }
+    .contact p {
+        padding-bottom: 20px;
+        font-size: 3px;
+    }
+    .contact-file span {
+        font-size: 16px;
+    }
+    .contact-file h5 {
+        font-size: 10px;
+    }
+    .contact-file h6 {
+        font-size: 9px;
+    }
+    .footer span {
+        padding: 10px 10px;
+        font-size: 15px;
+    }
+    .copy-right {
+        padding: 8px 0px;
+    }
+    .copy-right p {
+        font-size: 5px;
+    }
+}
